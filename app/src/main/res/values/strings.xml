@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ALC 4 PHASE 1</string>
+    <string name="welcome_to_alc">Welcome to ALC 4.0 </string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="my_name">LODONOU Prudo Koff</string>
+    <string name="track" >Track : </string>
+    <string name="track_value" >Android</string>
+    <string name="country" >Country :</string>
+    <string name="country_value" >TOGO</string>
+    <string name="email" >Email : </string>
+    <string name="email_value" >plodonou35@gmail.com</string>
+    <string name="phone_number" >Phone Number :</string>
+    <string name="phone_number_value" >0022890980443</string>
+    <string name="slack_username" > Slack username :</string>
+    <string name="slack_username_value" >"@LODONOU Prudo Koff"</string>
+</resources>
